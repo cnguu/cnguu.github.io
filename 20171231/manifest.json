@@ -1,0 +1,48 @@
+{
+  "name": "月上陌阡",
+  "short_name": "月上陌阡",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#7546c9",
+  "background_color": "#000000",
+  "description": "月上陌阡的个人博客",
+  "icons": [
+    {
+      "src": "/20171231/logo48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/20171231/logo64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "/20171231/logo72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/20171231/logo96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/20171231/logo128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/20171231/logo144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "web",
+      "url": "https://github.com/cnguu/vuepress-theme-yur",
+      "id": "com.github.cnguu.vuepress-theme-yur"
+    }
+  ]
+}
